@@ -1,0 +1,349 @@
+{
+    "el": {
+        "date": "Tue Feb 12 10:47:30 2013 +0530",
+        "commit": "5db7244fd3d99777e6d1be10a302a2c0e87d92e3",
+        "message": "Greek kbd keyboard layout",
+        "author": "Parag Nemade <pnemade@redhat.com>"
+    },
+    "eo": {
+        "date": "Tue Feb 12 16:37:11 2013 +0530",
+        "commit": "98736b368ac4c5b8bdaed417d6b610b19791840e",
+        "message": "Esperanto input methods h,h-f,plena,q,vi,x",
+        "long_message": "commit 33ecb39b105f5b8ef9abc85e4cccba90fddfeaec Author: srikanthlogic <srik.lak@gmail.com> Date:   Tue Oct 16 09:34:30 2012 +0530 Port more input methods",
+        "author": "Parag Nemade <pnemade@redhat.com>"
+    },
+    "sah": {
+        "date": "Wed Oct 17 11:21:40 2012 +0530",
+        "commit": "e88ca29acfecd0e068c0e9024499e4b041dcf4dc",
+        "message": "Port remaining IME",
+        "long_message": "* Ported Punjabi, Russian, Sanskrit, Sakha, Sinhalese, Telugu, Urdu IME * Explicitly name the IMEs",
+        "author": "srikanthlogic <srik.lak@gmail.com>"
+    },
+    "fonipa": {
+        "date": "Sat Nov 24 00:11:02 2012 +0200",
+        "commit": "f6989953e78ea4efce7dd4913c8e1a2bbdf6d740",
+        "message": "Adding ipa-sil.js",
+        "author": "Amir E. Aharoni <amir.aharoni@mail.huji.ac.il>"
+    },
+    "brx": {
+        "date": "Fri Oct 12 07:32:07 2012 +0530",
+        "commit": "79d98c8b7a2065a89b1f8cf625603b9d1a7e9912",
+        "message": "Add Bodo input method",
+        "author": "srikanthlogic <srik.lak@gmail.com>"
+    },
+    "is": {
+        "date": "Tue Nov 13 15:42:10 2012 +0530",
+        "commit": "7359384b5810a42dc4ee7713e1cd58efd3b5aaf1",
+        "message": "Rules for Islandic language",
+        "long_message": "by John Erling Blad",
+        "author": "Santhosh Thottingal <santhosh.thottingal@gmail.com>"
+    },
+    "am": {
+        "date": "Thu Oct 4 20:11:08 2012 +0530",
+        "commit": "12e2a418d8290ec4d47bf03b2d5e48636784d9ff",
+        "message": "More input methods for hi,he,sa,mr,am",
+        "author": "Santhosh Thottingal <santhosh.thottingal@gmail.com>"
+    },
+    "gu": {
+        "date": "Tue Jan 15 10:32:06 2013 +0530",
+        "commit": "6ebeb0b8be61ded2f009f5a5555afa78ecbcae84",
+        "message": "Add Gujarati InScript2 and Phonetic keyboard",
+        "long_message": "commit 0e674a02484f47318a000e954f597d41e51372f8 Author: srikanthlogic <srik.lak@gmail.com> Date:   Mon Oct 15 12:17:55 2012 +0530 Add Gujarati Hebrew Kannada layouts",
+        "author": "Parag Nemade <pnemade@redhat.com>"
+    },
+    "sv": {
+        "date": "Tue Nov 13 15:02:47 2012 +0530",
+        "commit": "36ca924668a7ebff62922194b481342cf3763108",
+        "message": "Rules for Swedish by John Erling Blad",
+        "author": "Santhosh Thottingal <santhosh.thottingal@gmail.com>"
+    },
+    "as": {
+        "date": "Sat Feb 9 12:50:14 2013 +0530",
+        "commit": "5b8e75365f0864df3a2966f9080ce4d7ebdd9f7b",
+        "message": "Assamese InScript2 and Phonetic keyboard layout",
+        "long_message": "commit e6a81f62f9953b11016de8b8907a615cec6e31d2 Author: srikanthlogic <srik.lak@gmail.com> Date:   Thu Oct 11 18:31:29 2012 +0530 Port Assamese IME from Narayam to jquery.ime",
+        "author": "Parag Nemade <pnemade@redhat.com>"
+    },
+    "ar": {
+        "date": "Sat Feb 9 16:32:42 2013 +0530",
+        "commit": "d06f29f18ef2b9ecea029f1fc17a82408fb02d16",
+        "message": "Arabic kbd keyboard layout",
+        "author": "Parag Nemade <pnemade@redhat.com>"
+    },
+    "ru": {
+        "date": "Tue Feb 12 11:35:42 2013 +0530",
+        "commit": "24564d115da5963c75b6e5f8ed4bd6daca06e069",
+        "message": "Russian kbd keyboard layout",
+        "long_message": "commit 42a547ad574632cdd1d26a409cda60ce1ff5ca46 Author: Amir E. Aharoni <amir.aharoni@mail.huji.ac.il> Date:   Thu Nov 22 13:43:54 2012 +0200 Rename ru-transliteration file commit e88ca29acfecd0e068c0e9024499e4b041dcf4dc Author: srikanthlogic <srik.lak@gmail.com> Date:   Wed Oct 17 11:21:40 2012 +0530 Port remaining IME * Ported Punjabi, Russian, Sanskrit, Sakha, Sinhalese, Telugu, Urdu IME * Explicitly name the IMEs",
+        "author": "Parag Nemade <pnemade@redhat.com>"
+    },
+    "kok": {
+        "date": "Tue Nov 6 17:53:01 2012 +0530",
+        "commit": "9ee60d185f1dc8300a1898ec488fa5670f1be5bc",
+        "message": "Added Inscript2 for kok, mr, ne, sa languages",
+        "author": "Parag Nemade <pnemade@redhat.com>"
+    },
+    "sr": {
+        "date": "Tue Feb 12 11:31:28 2013 +0530",
+        "commit": "d3c3020afc1b2accc053973ae056d80cc774abf3",
+        "message": "Slovak and Serbian kbd keyboard layout",
+        "author": "Parag Nemade <pnemade@redhat.com>"
+    },
+    "no": {
+        "date": "Tue Nov 13 15:12:15 2012 +0530",
+        "commit": "ebc1f54efd2871668e513713d4f58b21c5408f22",
+        "message": "Rules for Norwegian",
+        "long_message": "Note that the same rules are used for both form of Norwegian, that is both Nynorsk and Bokmål. By John Erling Blad",
+        "author": "Santhosh Thottingal <santhosh.thottingal@gmail.com>"
+    },
+    "lo": {
+        "date": "Tue Feb 12 11:33:34 2013 +0530",
+        "commit": "9e18a6a4440ddce820df4f5046b67498619b06c5",
+        "message": "Lao kbd keyboard layout",
+        "author": "Parag Nemade <pnemade@redhat.com>"
+    },
+    "ne": {
+        "date": "Tue Nov 6 17:53:01 2012 +0530",
+        "commit": "9ee60d185f1dc8300a1898ec488fa5670f1be5bc",
+        "message": "Added Inscript2 for kok, mr, ne, sa languages",
+        "long_message": "commit 33ecb39b105f5b8ef9abc85e4cccba90fddfeaec Author: srikanthlogic <srik.lak@gmail.com> Date:   Tue Oct 16 09:34:30 2012 +0530 Port more input methods",
+        "author": "Parag Nemade <pnemade@redhat.com>"
+    },
+    "cyrl": {
+        "date": "Tue Oct 16 09:34:30 2012 +0530",
+        "commit": "33ecb39b105f5b8ef9abc85e4cccba90fddfeaec",
+        "message": "Port more input methods",
+        "author": "srikanthlogic <srik.lak@gmail.com>"
+    },
+    "pa": {
+        "date": "Mon Jan 14 21:31:20 2013 +0530",
+        "commit": "9ea6d2a6db537c00a783d97137bea0a7999e41eb",
+        "message": "Add Punjabi InScript2 and Jhelum keyboard",
+        "long_message": "commit e88ca29acfecd0e068c0e9024499e4b041dcf4dc Author: srikanthlogic <srik.lak@gmail.com> Date:   Wed Oct 17 11:21:40 2012 +0530 Port remaining IME * Ported Punjabi, Russian, Sanskrit, Sakha, Sinhalese, Telugu, Urdu IME * Explicitly name the IMEs",
+        "author": "Parag Nemade <pnemade@redhat.com>"
+    },
+    "th": {
+        "date": "Sat Feb 9 01:35:34 2013 +0800",
+        "commit": "59bad890295d7601160a7bdde1c04a84998e98e7",
+        "message": "Add the Thai Input Methods",
+        "long_message": "Add the Thai Input Methods (the Kedmanee and Pattachote keyboard layouts)",
+        "author": "Spring Roll Conan <sprconan@gmail.com>"
+    },
+    "README": {
+        "date": "Tue Oct 9 14:12:36 2012 +0530",
+        "commit": "6d0b682ad276a58e7f00de7f54f6ece9a6382968",
+        "message": "jQuery.ime Input method specification",
+        "author": "Santhosh Thottingal <santhosh.thottingal@gmail.com>"
+    },
+    "fo": {
+        "date": "Tue Nov 13 14:51:58 2012 +0530",
+        "commit": "897081a5235078a14f46802274b13e72ff52b6d8",
+        "message": "Rules for Faroese language",
+        "long_message": "Contributed by John Erling Blad",
+        "author": "Santhosh Thottingal <santhosh.thottingal@gmail.com>"
+    },
+    "jv": {
+        "date": "Fri Nov 16 10:54:52 2012 +0530",
+        "commit": "d4e5a13a28ac69087550ecabba55805cafe969dd",
+        "message": "Add Javanese transliteration input method",
+        "long_message": "Fix issue #66",
+        "author": "Santhosh Thottingal <santhosh.thottingal@gmail.com>"
+    },
+    "ta": {
+        "date": "Wed Jan 16 20:51:17 2013 +0530",
+        "commit": "2ed3b136e59966151e9b5a27ca9d91ed9febb73c",
+        "message": "Add InScript2 keymaps for Kannada, Malayalam, Tamil, Telugu",
+        "long_message": "commit 947cbca041fecdc346fe1bcc3c00f97eb8a4cec5 Author: Santhosh Thottingal <santhosh.thottingal@gmail.com> Date:   Wed Oct 3 19:50:21 2012 +0530 IME core improvements This is work in progress. APIs may change drastically.",
+        "author": "Parag Nemade <pnemade@redhat.com>"
+    },
+    "be": {
+        "date": "Mon Feb 11 12:01:21 2013 +0530",
+        "commit": "4aab99c3fe7e59c832645a6fe7aaa3ccd416e7d4",
+        "message": "Belarusian kbd keyboard layout",
+        "long_message": "commit 92951831cc604d69967d03cbbd38e17d4feb7f3e Author: Pavel Selitskas <p.selitskas@gmail.com> Date:   Tue Nov 6 11:08:13 2012 +0300 Added support for Belarusian Added both transliteration into cyrillic and Łacinka. As there are two kinds of diacritics used in the alphabet (breve and acute), these adding = or - before the letter (appropriately). All additional characters: Ć, Č, Ł, Ń, Ś, Ś, Ź, Ž (and lower-case letters)",
+        "author": "Parag Nemade <pnemade@redhat.com>"
+    },
+    "hy": {
+        "date": "Tue Feb 12 11:09:29 2013 +0530",
+        "commit": "cec51f47c79bb93796f9ff25972be8f5aaf73cfa",
+        "message": "Armenian kbd keyboard layout",
+        "author": "Parag Nemade <pnemade@redhat.com>"
+    },
+    "hr": {
+        "date": "Tue Feb 12 10:51:42 2013 +0530",
+        "commit": "d8d2336a42d1c49855e87bb8fc1560e989752ae0",
+        "message": "Croatian kbd kayboard layout",
+        "author": "Parag Nemade <pnemade@redhat.com>"
+    },
+    "ua": {
+        "date": "Tue Feb 12 11:26:29 2013 +0530",
+        "commit": "b3c8bf27d2fc2b965f6adde964c8515fbb60ec35",
+        "message": "Added Ukranian, Ughyur and Uzbek kbd keyboard layout",
+        "author": "Parag Nemade <pnemade@redhat.com>"
+    },
+    "bn": {
+        "date": "Sat Feb 9 13:03:40 2013 +0530",
+        "commit": "e55582aa26edb46eb7c18a4a887eeac25a18ba9c",
+        "message": "Bengali InScript2 keyboard layout",
+        "long_message": "commit 0f3c7c08adf670893b5808b8bb47c2c8b6a171ec Author: srikanthlogic <srik.lak@gmail.com> Date:   Fri Oct 12 07:15:36 2012 +0530 Add Tifinagh and Bengali layouts",
+        "author": "Parag Nemade <pnemade@redhat.com>"
+    },
+    "de": {
+        "date": "Wed Oct 3 19:50:21 2012 +0530",
+        "commit": "947cbca041fecdc346fe1bcc3c00f97eb8a4cec5",
+        "message": "IME core improvements",
+        "long_message": "This is work in progress. APIs may change drastically.",
+        "author": "Santhosh Thottingal <santhosh.thottingal@gmail.com>"
+    },
+    "da": {
+        "date": "Tue Nov 13 16:03:31 2012 +0530",
+        "commit": "c4bc679f903d4781d7da30c88bc65abe3723bb49",
+        "message": "Rules for Danish by John Erling Blad",
+        "author": "Santhosh Thottingal <santhosh.thottingal@gmail.com>"
+    },
+    "hi": {
+        "date": "Sat Feb 9 13:00:41 2013 +0530",
+        "commit": "0268743ba65d98e0e09d0745dcd0befdf051ca47",
+        "message": "Hindi Phonetic keyboard layout",
+        "long_message": "commit 12e2a418d8290ec4d47bf03b2d5e48636784d9ff Author: Santhosh Thottingal <santhosh.thottingal@gmail.com> Date:   Thu Oct 4 20:11:08 2012 +0530 More input methods for hi,he,sa,mr,am",
+        "author": "Parag Nemade <pnemade@redhat.com>"
+    },
+    "mai": {
+        "date": "Mon Oct 15 16:49:04 2012 +0530",
+        "commit": "a8ca255d225be66cc03cef9dbd1b867c93c5bf84",
+        "message": "Add Maithili inscript",
+        "author": "Santhosh Thottingal <santhosh.thottingal@gmail.com>"
+    },
+    "fi": {
+        "date": "Sat Nov 10 07:13:14 2012 +0000",
+        "commit": "5a67c1c241685e811cf584ed6ddf2c78276189cd",
+        "message": "Finnish transliteration keymap",
+        "author": "Niklas Laxström <niklas.laxstrom@gmail.com>"
+    },
+    "ug": {
+        "date": "Tue Feb 12 11:26:29 2013 +0530",
+        "commit": "b3c8bf27d2fc2b965f6adde964c8515fbb60ec35",
+        "message": "Added Ukranian, Ughyur and Uzbek kbd keyboard layout",
+        "author": "Parag Nemade <pnemade@redhat.com>"
+    },
+    "he": {
+        "date": "Mon Feb 11 12:09:07 2013 +0530",
+        "commit": "bde708b4c15f09694fe92b3d470490d85ddb25aa",
+        "message": "Hebrew kbd keyboard layout",
+        "long_message": "commit 5b23cae37ed1832a4b66949891b64c575ef9ca61 Author: Amir E. Aharoni <amir.aharoni@mail.huji.ac.il> Date:   Mon Oct 15 10:38:48 2012 +0200 Rename Hebrew 2011 to 2012 commit 0e674a02484f47318a000e954f597d41e51372f8 Author: srikanthlogic <srik.lak@gmail.com> Date:   Mon Oct 15 12:17:55 2012 +0530 Add Gujarati Hebrew Kannada layouts commit 12e2a418d8290ec4d47bf03b2d5e48636784d9ff Author: Santhosh Thottingal <santhosh.thottingal@gmail.com> Date:   Thu Oct 4 20:11:08 2012 +0530 More input methods for hi,he,sa,mr,am",
+        "author": "Parag Nemade <pnemade@redhat.com>"
+    },
+    "ka": {
+        "date": "Tue Feb 12 11:19:47 2013 +0530",
+        "commit": "586c13c61f558fb98fee7661c6020d69333fc11d",
+        "message": "Georgian and Kazak kbd keyboard layout",
+        "long_message": "commit 0e674a02484f47318a000e954f597d41e51372f8 Author: srikanthlogic <srik.lak@gmail.com> Date:   Mon Oct 15 12:17:55 2012 +0530 Add Gujarati Hebrew Kannada layouts",
+        "author": "Parag Nemade <pnemade@redhat.com>"
+    },
+    "te": {
+        "date": "Wed Jan 16 20:51:17 2013 +0530",
+        "commit": "2ed3b136e59966151e9b5a27ca9d91ed9febb73c",
+        "message": "Add InScript2 keymaps for Kannada, Malayalam, Tamil, Telugu",
+        "long_message": "commit e88ca29acfecd0e068c0e9024499e4b041dcf4dc Author: srikanthlogic <srik.lak@gmail.com> Date:   Wed Oct 17 11:21:40 2012 +0530 Port remaining IME * Ported Punjabi, Russian, Sanskrit, Sakha, Sinhalese, Telugu, Urdu IME * Explicitly name the IMEs",
+        "author": "Parag Nemade <pnemade@redhat.com>"
+    },
+    "uz": {
+        "date": "Tue Feb 12 11:26:29 2013 +0530",
+        "commit": "b3c8bf27d2fc2b965f6adde964c8515fbb60ec35",
+        "message": "Added Ukranian, Ughyur and Uzbek kbd keyboard layout",
+        "author": "Parag Nemade <pnemade@redhat.com>"
+    },
+    "kk": {
+        "date": "Tue Feb 12 12:28:19 2013 +0530",
+        "commit": "77e69abc02ca1144f7c6abc8a1534fe052f15c20",
+        "message": "Kazak Arabic keyboard layout",
+        "long_message": "commit 586c13c61f558fb98fee7661c6020d69333fc11d Author: Parag Nemade <pnemade@redhat.com> Date:   Tue Feb 12 11:19:47 2013 +0530 Georgian and Kazak kbd keyboard layout",
+        "author": "Parag Nemade <pnemade@redhat.com>"
+    },
+    "ml": {
+        "date": "Wed Jan 16 20:51:17 2013 +0530",
+        "commit": "2ed3b136e59966151e9b5a27ca9d91ed9febb73c",
+        "message": "Add InScript2 keymaps for Kannada, Malayalam, Tamil, Telugu",
+        "long_message": "commit 1fbf1e2d1bb0b7e1ee1147270c5b4af47e6655bc Author: Santhosh Thottingal <santhosh.thottingal@gmail.com> Date:   Sun Jul 22 18:25:10 2012 +0530 importing initial version",
+        "author": "Parag Nemade <pnemade@redhat.com>"
+    },
+    "mn": {
+        "date": "Sat Oct 27 00:16:04 2012 +0800",
+        "commit": "6b21601ddb3530857065398e3c6d546bb1ffc4a8",
+        "message": "Port a Mongolian Cyrillic input method",
+        "author": "Spring Roll Conan <sprconan@gmail.com>"
+    },
+    "kn": {
+        "date": "Wed Jan 16 20:51:17 2013 +0530",
+        "commit": "2ed3b136e59966151e9b5a27ca9d91ed9febb73c",
+        "message": "Add InScript2 keymaps for Kannada, Malayalam, Tamil, Telugu",
+        "long_message": "commit 38869df01820c798b7b34bbbe5711a86b3572819 Author: Aravinda VK <mail@aravindavk.in> Date:   Fri Nov 9 13:05:05 2012 +0530 Kannada KGP layout added commit 0e674a02484f47318a000e954f597d41e51372f8 Author: srikanthlogic <srik.lak@gmail.com> Date:   Mon Oct 15 12:17:55 2012 +0530 Add Gujarati Hebrew Kannada layouts",
+        "author": "Parag Nemade <pnemade@redhat.com>"
+    },
+    "ur": {
+        "date": "Wed Oct 17 11:21:40 2012 +0530",
+        "commit": "e88ca29acfecd0e068c0e9024499e4b041dcf4dc",
+        "message": "Port remaining IME",
+        "long_message": "* Ported Punjabi, Russian, Sanskrit, Sakha, Sinhalese, Telugu, Urdu IME * Explicitly name the IMEs",
+        "author": "srikanthlogic <srik.lak@gmail.com>"
+    },
+    "ks": {
+        "date": "Sat Feb 9 19:14:56 2013 +0530",
+        "commit": "9a000b7cd2936ea9ba1b436856cba80e0121208d",
+        "message": "Kasmiri InScript keyboard using Devanagari and Kbd keyboard using Arabic script",
+        "author": "Parag Nemade <pnemade@redhat.com>"
+    },
+    "si": {
+        "date": "Wed Oct 17 11:21:40 2012 +0530",
+        "commit": "e88ca29acfecd0e068c0e9024499e4b041dcf4dc",
+        "message": "Port remaining IME",
+        "long_message": "* Ported Punjabi, Russian, Sanskrit, Sakha, Sinhalese, Telugu, Urdu IME * Explicitly name the IMEs",
+        "author": "srikanthlogic <srik.lak@gmail.com>"
+    },
+    "sk": {
+        "date": "Tue Feb 12 11:31:28 2013 +0530",
+        "commit": "d3c3020afc1b2accc053973ae056d80cc774abf3",
+        "message": "Slovak and Serbian kbd keyboard layout",
+        "author": "Parag Nemade <pnemade@redhat.com>"
+    },
+    "mr": {
+        "date": "Sat Feb 9 13:02:18 2013 +0530",
+        "commit": "5281ddd8a17e3b8c11f4a7ffc263ec5c8b0fb761",
+        "message": "Marathi Phonetic keyboard layout",
+        "long_message": "commit 9ee60d185f1dc8300a1898ec488fa5670f1be5bc Author: Parag Nemade <pnemade@redhat.com> Date:   Tue Nov 6 17:53:01 2012 +0530 Added Inscript2 for kok, mr, ne, sa languages commit 33ecb39b105f5b8ef9abc85e4cccba90fddfeaec Author: srikanthlogic <srik.lak@gmail.com> Date:   Tue Oct 16 09:34:30 2012 +0530 Port more input methods",
+        "author": "Parag Nemade <pnemade@redhat.com>"
+    },
+    "ber": {
+        "date": "Fri Oct 12 10:14:19 2012 +0530",
+        "commit": "364fbadf839cf8e06b4c365d3431bcf05e42aea8",
+        "message": "Move Tifinagh to correct folder",
+        "author": "Santhosh Thottingal <santhosh.thottingal@gmail.com>"
+    },
+    "sa": {
+        "date": "Tue Nov 6 17:53:01 2012 +0530",
+        "commit": "9ee60d185f1dc8300a1898ec488fa5670f1be5bc",
+        "message": "Added Inscript2 for kok, mr, ne, sa languages",
+        "long_message": "commit e88ca29acfecd0e068c0e9024499e4b041dcf4dc Author: srikanthlogic <srik.lak@gmail.com> Date:   Wed Oct 17 11:21:40 2012 +0530 Port remaining IME * Ported Punjabi, Russian, Sanskrit, Sakha, Sinhalese, Telugu, Urdu IME * Explicitly name the IMEs",
+        "author": "Parag Nemade <pnemade@redhat.com>"
+    },
+    "my": {
+        "date": "Tue Feb 12 11:32:40 2013 +0530",
+        "commit": "155c1452c8d354f43e112e7a48cb3e8610364630",
+        "message": "Myanmar kbd keyboard layout",
+        "author": "Parag Nemade <pnemade@redhat.com>"
+    },
+    "or": {
+        "date": "Sat Feb 9 12:57:24 2013 +0530",
+        "commit": "a074bb40354f10741d52176028f6f9cb44236c4d",
+        "message": "Odiya InScript2 and Phonetic keyboard layout",
+        "long_message": "commit 33ecb39b105f5b8ef9abc85e4cccba90fddfeaec Author: srikanthlogic <srik.lak@gmail.com> Date:   Tue Oct 16 09:34:30 2012 +0530 Port more input methods",
+        "author": "Parag Nemade <pnemade@redhat.com>"
+    },
+    "se": {
+        "date": "Tue Nov 13 15:36:53 2012 +0530",
+        "commit": "f810e0aabec15c0a493f533731c201e3d5d6b1c6",
+        "message": "Northern Sami language",
+        "long_message": "Contributed by John Erling Blad",
+        "author": "Santhosh Thottingal <santhosh.thottingal@gmail.com>"
+    }
+}
